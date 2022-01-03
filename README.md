@@ -8,3 +8,5 @@ Mais um desafio concluído da Frontend Mentor, dessa vez utilizando a biblioteca
 
 ## Minha resolução
 
+https://lucasgabriell97.github.io/order-summary-component/
+
